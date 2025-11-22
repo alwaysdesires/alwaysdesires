@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=F40DF7&center=true&vCenter=true&width=900&lines=⚡+Onkar+Mhaskar+⚡;Cybersecurity+%7C+Bug+Bounty+%7C+Red+Team;OSINT+Hunter+%7C+CTF+Rank+1;Automation+%7C+Recon+%7C+AI+Security)](https://git.io/typing-svg)
 
 <!-- TITLE -->
-<h1 align="center">👾 Onkar // Cybersecurity Operative</h1>
+<h1 align="center">👾 Onkar // Cybersecurity enthusiast</h1>
 <p align="center">
   <b>Bug Bounty Hunter • Penetration Tester • AI-Augmented Security Researcher</b><br>
   <b>Penligent AI + Gemini CLI Recon Workflows</b>
@@ -10,7 +10,6 @@
 
 ---
 
-# 🟣 **CYBERPUNK IDENTITY**
 - 🚀 **Bug Bounty Hunter (HackerOne)**  
 - 🔮 **AI-Augmented Pentester** — integrating *Penligent AI* + *Gemini CLI*  
 - 👾 **CTF Player (Rank 1 – HackersDaddy)**  
@@ -22,7 +21,6 @@
 
 ---
 
-# 🟦 **CYBERPUNK TOOLSET (EXTENDED)**
 
 ### 🔥 **AI-Powered Security Tools**
 | Tool | Purpose |
