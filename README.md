@@ -76,7 +76,6 @@
 
 ---
 
-# 🎛 **Cyberpunk Tech Stack**
 
 ### 🖥 OS
 ![Kali](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=blue)
@@ -88,7 +87,7 @@
 
 ---
 
-#  **GITHUB STATS (Cyberpunk Theme)**
+#  **GITHUB STATS**
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=alwaysdesires&show_icons=true&theme=tokyonight&title_color=F40DF7&icon_color=F40DF7" />
