@@ -32,8 +32,8 @@
 
 ---
 
-### 🟪 **Bug Bounty Arsenal**
-- **Burp Suite Pro / Community**
+###  **Bug Bounty Arsenal**
+- **Burp Suite Pro**
 - **Nuclei + Custom Templates**
 - **Dalfox**
 - **XSStrike**
@@ -47,9 +47,7 @@
 - **CyberChef**
 - **Hakrawler**
 - **Katana**
-- **kxss**
 - **SQLmap**
-- **Xray Scanner**
 
 ---
 
@@ -90,11 +88,11 @@
 
 ---
 
-# 🟣 **GITHUB STATS (Cyberpunk Theme)**
+#  **GITHUB STATS (Cyberpunk Theme)**
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=onkar-mhaskar&show_icons=true&theme=tokyonight&title_color=F40DF7&icon_color=F40DF7" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=onkar-mhaskar&theme=tokyonight&ring=F40DF7&fire=F40DF7" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=alwaysdesires&show_icons=true&theme=tokyonight&title_color=F40DF7&icon_color=F40DF7" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=alwaysdesires&theme=tokyonight&ring=F40DF7&fire=F40DF7" />
 </p>
 
 ---
@@ -123,7 +121,7 @@
 
 ---
 
-# 🧩 **Cyberpunk Philosophy**
+# 🧩 **Cyber Philosophy**
 > **“Break systems to understand them.  
 > Automate when needed.  
 > Let AI assist — but never replace your hacker mindset.”**
