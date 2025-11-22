@@ -1,72 +1,133 @@
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F700&lines=Cybersecurity+Enthusiast;Bug+Bounty+Hunter;Ethical+Hacker;OSINT+Practitioner;CTF+Player+%7C+Rank+1;Always+Learning+%26+Improving)](https://git.io/typing-svg)
+<!-- CYBERPUNK TYPING ANIMATION -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=F40DF7&center=true&vCenter=true&width=900&lines=⚡+Onkar+Mhaskar+⚡;Cybersecurity+%7C+Bug+Bounty+%7C+Red+Team;OSINT+Hunter+%7C+CTF+Rank+1;Automation+%7C+Recon+%7C+AI+Security)](https://git.io/typing-svg)
 
-# 👋 Hey, I'm Onkar (Cybersecurity & Bug Bounty Practitioner)
-
-🔐 Ethical Hacker | 🐞 Bug Bounty Hunter | 🕵️ OSINT Enthusiast  
-🚩 CTF Player (Rank 1 – HackersDaddy)  
-🎯 Focused on Web Security, Recon Automation & Real-World Exploitation  
-📚 Passionate about cybersecurity mindset, philosophy & adversarial thinking  
-🐧 Living inside Kali Linux | 🧪 Breaking to secure | ⚡ Red Team Learner  
-
----
-
-## 🔥 **Skills & Interests**
-- 🕸 **Web App Pentesting**
-- 🛡 **Bug Bounty (HackerOne)**
-- 📡 **Recon Automation**
-- 🧬 **Payload Crafting**
-- 🕵️ **OSINT & Digital Investigations**
-- 🧠 **Cybersecurity Mindset & Philosophy**
-- 🎯 **CTF Solving (Web/Forensics/Misc)**
-- 🐍 Scripting (Python + Bash)  
-
----
-
-## 🧰 **Tech Stack**
-### **Operating Systems**
-![Kali](https://img.shields.io/badge/Kali_Linux-blue?logo=kalilinux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
-
-### **Tools**
-![Burp](https://img.shields.io/badge/Burp_Suite-orange?logo=burpsuite&logoColor=black)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-009639?logo=nmap&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-000000?logo=metasploit&logoColor=blue)
-
-### **Languages**
-![Python](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue)
-![Bash](https://img.shields.io/badge/Bash-000000?logo=gnu-bash&logoColor=white)
-
----
-
-## 📊 **GitHub Stats**
+<!-- TITLE -->
+<h1 align="center">👾 Onkar // Cybersecurity Operative</h1>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
+  <b>Bug Bounty Hunter • Penetration Tester • AI-Augmented Security Researcher</b><br>
+  <b>Penligent AI + Gemini CLI Recon Workflows</b>
 </p>
 
 ---
 
-## 🏅 **Achievements**
-- 🥇 **Rank 1 – HackersDaddy CTF**
-- ⭐ STAR Certified Ethical Hacker  
-- 🔒 Ethical Hacking Expert (98%)  
-- 🎯 Security Researcher  
-- 🚀 Active Bug Bounty Hunter (HackerOne)
+# 🟣 **CYBERPUNK IDENTITY**
+- 🚀 **Bug Bounty Hunter (HackerOne)**  
+- 🔮 **AI-Augmented Pentester** — integrating *Penligent AI* + *Gemini CLI*  
+- 👾 **CTF Player (Rank 1 – HackersDaddy)**  
+- 🕷 **Web Exploitation & Recon Automation**  
+- 🐉 **Red Team Wannabe → Offensive Security Mindset**  
+- 🐧 Full-time **Kali Linux Operator**
+
+🔥 Living in a loop of: *Scan → Break → Analyze → Automate → Repeat*  
 
 ---
 
-## 📫 **Let's Connect**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?logo=hackthebox&logoColor=9FEF00)](https://hackthebox.com/)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?logo=tryhackme&logoColor=red)](https://tryhackme.com/)
-[![HackerOne](https://img.shields.io/badge/HackerOne-494949?logo=hackerone&logoColor=white)](https://hackerone.com/)
+# 🟦 **CYBERPUNK TOOLSET (EXTENDED)**
+
+### 🔥 **AI-Powered Security Tools**
+| Tool | Purpose |
+|------|---------|
+| **Penligent AI** | AI-powered exploitation & payload crafting |
+| **Gemini CLI** | Automated recon, scanning, triage |
+| **OpenAI GPT-5 / GPT-4** | Report writing, logic modeling |
+| **Custom Recon Automations** | Asset mapping + endpoint harvesting |
 
 ---
 
-## 🧩 **Quote I Live By**
-> **“Think like an attacker. Act like a defender.”**  
-> **“Hack ethically. Learn constantly.”**
+### 🟪 **Bug Bounty Arsenal**
+- **Burp Suite Pro / Community**
+- **Nuclei + Custom Templates**
+- **Dalfox**
+- **XSStrike**
+- **GF Patterns**
+- **Subfinder / Assetfinder**
+- **httpx**
+- **Amass**
+- **Katanas**
+- **Waybackurls / Gau / Gauplus**
+- **Dirsearch / FFUF**
+- **CyberChef**
+- **Hakrawler**
+- **Katana**
+- **kxss**
+- **SQLmap**
+- **Xray Scanner**
+
+---
+
+### 🟩 **Pentester Toolkit**
+- **Nmap / Rustscan**
+- **Metasploit Framework**
+- **BloodHound + SharpHound**
+- **Responder**
+- **Wireshark**
+- **John / Hashcat**
+- **LinPEAS / WinPEAS**
+- **Netcat**
+- **Gobuster**
+- **Hydra**
+- **Nikto**
+
+---
+
+### 🟫 **OSINT Hunter Stack**
+- **Sherlock**
+- **theHarvester**
+- **Photon**
+- **Recon.dev**
+- **Email OSINT Tools**
+- **Phone OSINT Tools**
+
+---
+
+# 🎛 **Cyberpunk Tech Stack**
+
+### 🖥 OS
+![Kali](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=blue)
+![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=blue)
+
+### 📝 Languages
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
+![Bash](https://img.shields.io/badge/Bash_Scripting-000000?style=for-the-badge&logo=gnubash)
+
+---
+
+# 🟣 **GITHUB STATS (Cyberpunk Theme)**
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=onkar-mhaskar&show_icons=true&theme=tokyonight&title_color=F40DF7&icon_color=F40DF7" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=onkar-mhaskar&theme=tokyonight&ring=F40DF7&fire=F40DF7" />
+</p>
+
+---
+
+# ⚔️ **Achievements**
+- 🥇 **Rank 1 – HackersDaddy CTF**  
+- ⭐ **STAR Certified Ethical Hacker**  
+- 🔥 **Ethical Hacking Expert – 98%**  
+- 👨‍💻 Active researcher on **Docboyz**, **adsenv.com**, etc  
+- 🛰 Building **AI-powered pentesting workflows**  
+
+---
+
+# 🔗 **Connect With Me**
+<p align="center">
+<a href="https://www.linkedin.com/in/onkar-mhaskar-683222259/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+<a href="https://tryhackme.com/p/justcallmeomi" target="_blank">
+  <img src="https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=red"/>
+</a>
+<a href="https://hackerone.com/onkar_ehe" target="_blank">
+  <img src="https://img.shields.io/badge/HackerOne-000000?style=for-the-badge&logo=hackerone&logoColor=white"/>
+</a>
+</p>
+
+---
+
+# 🧩 **Cyberpunk Philosophy**
+> **“Break systems to understand them.  
+> Automate when needed.  
+> Let AI assist — but never replace your hacker mindset.”**
 
 ---
